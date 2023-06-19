@@ -143,7 +143,7 @@
   "devDependencies": {
     "@atproto/pds": "^0.1.10",
     "@babel/core": "^7.20.0",
-    "@babel/preset-env": "^7.20.0",
+    "@babel/preset-env": "^7.22.5",
     "@babel/runtime": "^7.20.0",
     "@did-plc/server": "^0.0.1",
     "@react-native-community/eslint-config": "^3.0.0",
